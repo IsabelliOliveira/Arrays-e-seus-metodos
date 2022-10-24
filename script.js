@@ -1,6 +1,6 @@
-function inicio(){
+alert("Bem vindo.\n Arrays e seus métodos fantásticos \nArrays são ferramentas incríveis que podem trazer resultados maravilhosos.\n Segue alguns exercício na pratica ") 
 
-    alert("Bem vindo.\n Arrays e seus métodos fantásticos \nArrays são ferramentas incríveis que podem trazer resultados maravilhosos.\n Segue alguns exercício na pratica ")
+function inicio(){
 
     var escolha = parseInt(prompt("Selecione a opcão de desejada: \n 1). Execicio 1 \n 2). Execicio 2 \n 3).Execicio 3 \n 4). Sair"));
 
@@ -33,10 +33,10 @@ function exercicio_1(){
     while(contagem<=20){
         var numeroR= parseInt(prompt("Digite um número"));
         numero.push(numeroR)
-        contagem++
-
-        alert(numeroR);
+        contagem++ 
     }
+
+    alert(numeroR);
 
     inicio();
 
@@ -112,3 +112,5 @@ function sair(){
 }
 
 }
+
+inicio()
