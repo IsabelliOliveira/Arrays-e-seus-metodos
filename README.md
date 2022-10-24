@@ -2,9 +2,8 @@
 
 <p align="center">Arrays são ferramentas incríveis que podem trazer resultados maravilhosos. <br> Vamos praticar um pouco? </p>
 
-<h1 align="center">
-  <img alt="" title="" src=".(![Arrays e seus métodos fantásticos](https://user-images.githubusercontent.com/104120168/197538065-2bb8387b-cbfd-457d-9b15-c9ed0dd426ec.png))" />
-</h1>
+![Arrays e seus métodos fantásticos](https://user-images.githubusercontent.com/104120168/197543735-6aa02981-ccd4-49b1-b8ab-a5985e8d819a.jpg)
+
 
 <h2> Descrição do projeto </h2>
 
